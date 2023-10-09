@@ -1,10 +1,13 @@
+
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: hello-quarkus
+  description: ff
   annotations:
-    github.com/project-slug: kadel/hello-quarkus
+    backstage.io/kubernetes-id: hello-quarkus
+    backstage.io/techdocs-ref: dir:.
 spec:
-  type: other
-  lifecycle: unknown
-  owner: my-group
+  type: api
+  lifecycle: production
+  owner: as
