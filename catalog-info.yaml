@@ -9,3 +9,12 @@ spec:
   type: other
   lifecycle: unknown
   owner: my-group
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: my-group
+  title: Janus-IDP Authors
+spec:
+  type: team
+  children: []
