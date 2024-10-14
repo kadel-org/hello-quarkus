@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: kadel/hello-quarkus
     backstage.io/techdocs-ref: dir:.
+    dynatrace.com/dynatrace-entity-id: value
 spec:
   type: other
   lifecycle: unknown
