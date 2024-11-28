@@ -11,6 +11,9 @@ spec:
   lifecycle: unknown
   owner: my-group
   foo: bar
+  asdf:
+   - asdf
+   - asdfff
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
