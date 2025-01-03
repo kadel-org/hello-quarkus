@@ -6,7 +6,7 @@ metadata:
     github.com/project-slug: kadel/hello-quarkus
     backstage.io/techdocs-ref: dir:.
     dynatrace.com/dynatrace-entity-id: APPLICATION-97B372CE5B02323D
-    quay.io/repository-slug: `tkral/rhdh-quay-plugin',
+    quay.io/repository-slug: 'tkral/rhdh-quay-plugin',
 spec:
   type: other
   lifecycle: unknown
